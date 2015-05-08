@@ -1,0 +1,13 @@
+Package: gmisc
+Type: Package
+Title: Miscellaneous Functions Used by Georges Monette
+Version: 0.1.0.9000
+Date: 2015-05-06
+Author: Georges Monette
+Maintainer: Georges Monette <georges@yorku.ca>
+Description: A collection of functions developed from day to day.
+License: GPL-2
+LazyData: TRUE
+Imports: lattice,
+    latticeExtra
+Depends: lattice
